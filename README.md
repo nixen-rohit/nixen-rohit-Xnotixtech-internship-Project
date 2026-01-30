@@ -4,14 +4,7 @@ Welcome to my internship project! This website was created as part of my interns
 
 
  
-Live : (https://nixen-internship.netlify.app/)
-
-## 👋 About Me
-
-I'm **Rohit**, a passionate Web developer with a focus on building responsive, animated, and interactive web interfaces.  
-🧑‍💻 Portfolio: (https://nixen-portfolio.netlify.app/)
-
----
+Live : [(https://nixen-internship.netlify.app/)](https://nixen-internship.netlify.app/)
 
 ## 🚀 Getting Started
 
@@ -39,3 +32,4 @@ If you are satisfied with the result, you can finally build the project for rele
 ```
 npm run build
 ```
+
