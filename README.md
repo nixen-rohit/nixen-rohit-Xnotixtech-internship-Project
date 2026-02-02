@@ -27,9 +27,7 @@ After a few seconds, your project should be accessible at the address
 [http://localhost:5173/](http://localhost:5173/)
 
 
-If you are satisfied with the result, you can finally build the project for release with:
+<img width="1352" height="604" alt="image" src="https://github.com/user-attachments/assets/f5cfd9fd-7d8d-48e0-b6eb-c78c335d68b1" />
 
-```
-npm run build
-```
+
 
